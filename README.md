@@ -55,8 +55,8 @@ A MERN stack project to report, monitor, and coordinate disaster events with rea
 
 ## 🌐 Live Demo
 
-* **Frontend (Vercel):** [https://your-frontend.vercel.app](https://your-frontend.vercel.app)
-* **Backend (Render):** [https://your-backend.onrender.com](https://your-backend.onrender.com)
+* **Frontend (Vercel):** [https://disaster-response-app-git-main-priyanka-pathaks-projects.vercel.app/]
+* **Backend (Render):** [https://disaster-response-app-hd26.onrender.com](https://your-backend.onrender.com)
 
 ---
 
@@ -90,7 +90,7 @@ npm run dev
 
 ## 📦 Author
 
-* Created by **\Priyanka Pathak\** as part of a disaster coordination assignment
+* Created by **\[Priyanka Pathak]** as part of a disaster coordination assignment
 
 ---
 
